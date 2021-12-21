@@ -1,5 +1,5 @@
 # ir_centis
-Script desenvolvido para a extração das tabelas dos dados de distibuição de renda nos centis declarados no imposto de renda encontradas no site da [receita federal](https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/dados-abertos/receitadata/estudos-e-tributarios-e-aduaneiros/estudos-e-estatisticas/distribuicao-da-renda-por-centis/distribuicao-da-renda-por-centis-capa). 
+Script desenvolvido para a extração das tabelas dos dados de distibuição de renda por centis declarados no imposto de renda encontradas no site da [receita federal](https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/dados-abertos/receitadata/estudos-e-tributarios-e-aduaneiros/estudos-e-estatisticas/distribuicao-da-renda-por-centis/distribuicao-da-renda-por-centis-capa). 
 
 Necessário usar o R para sua execução. Cria uma tibble com todos os dados disponíveis até a data de publicação desse repositório (21/12/2021).
 
