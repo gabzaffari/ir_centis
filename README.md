@@ -6,8 +6,8 @@ Necessário usar o R para sua execução. Cria uma tibble com todos os dados dis
 Algumas melhorias futuras:  <br /> 
 i) fazê-lo como um pacote   <br />
 ii) criar uma função única get_ir() e outras de auxílio <br />
-iii) flexível a escolha dos anos e estados na extração <br />
-iv) usar webscrapping para extrair os links ao invés de listá-los <br />
+iii) permitir a escolha dos anos e estados na extração <br />
+iv) usar webscrapping para extrair os links ao invés de os listar <br />
 
 Para dúvidas sobre os dados nas tabelas veja: [metodologia.pdf](https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/dados-abertos/receitadata/estudos-e-tributarios-e-aduaneiros/estudos-e-estatisticas/distribuicao-da-renda-por-centis/capa-e-metodologia-centis.pdf) <br />
-Outras dúvida: gabzaffari@hotmail.com
+Outras dúvidas contatar gabzaffari@hotmail.com
