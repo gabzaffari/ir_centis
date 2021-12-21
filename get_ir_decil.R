@@ -128,10 +128,9 @@ print_gini_ir_maps <- function(df,
   )
   
 }
-read_ir_url() %>%
-  donwload_ir() %>%
-  read_all_ir() %>%
-  print_gini_ir_maps()
 
+ir_db <- read_ir_url() %>%
+  donwload_ir() %>%
+  read_all_ir()
 
 
