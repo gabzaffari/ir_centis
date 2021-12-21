@@ -6,8 +6,6 @@ library(stringr)
 library(readxl)
 library(tidyr)
 library(ggplot2)
-library(geobr)
-library(sf)
 library(jantior)
 
 ### 1.FUNÇÕES ####
